@@ -1,0 +1,16 @@
+{
+    "name": "rasskazov-pv/dst-service",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "RasskazovPv\\DstService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rasskazov-pv",
+            "email": "rasskazov.paul@yandex.ru"
+        }
+    ],
+    "require": {}
+}
