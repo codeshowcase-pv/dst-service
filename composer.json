@@ -12,5 +12,9 @@
             "email": "rasskazov.paul@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "bramus/router": "^1.6",
+        "guzzlehttp/guzzle": "^7.4",
+        "vlucas/phpdotenv": "^5.3"
+    }
 }
